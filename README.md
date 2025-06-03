@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, moi c'est Suleyman aka LuxurySley</h1>
+<p align="center">
+  🔧 Technicien Réseaux & Cybersécurité | 🛡️ Lab Addict | 👨‍💻 TryHackMe Enthusiast
+</p>
 
-<!--
-**Spaghetih/Spaghetih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 En formation Technicien Systèmes & Réseaux (CESI Strasbourg)  
+🔍 Passionné par la cybersécurité, les labs, l’automatisation et les systèmes.  
+👨‍💻 Je construis une documentation complète de tout ce que j’apprends dans mon repo [CyberLab](https://github.com/Spagheth/CyberLab).
+
+---
+
+## 🧰 Compétences
+
+- 🖥️ **Systèmes** : Windows Server, Active Directory, Debian, pfSense, OPNsense  
+- 🌐 **Réseaux** : TCP/IP, DNS, VPN, VLAN, Wireshark  
+- ⚙️ **Outils** : Wazuh, Zabbix, Suricata, Ansible, SQLMap, Frida  
+- 🔐 **Cybersec** : SIEM, SOC Labs, TryHackMe, Vuln Scanners  
+- 🔄 **Automation** : PowerShell, Bash, Ansible  
+- 🌐 **Dev Web** : HTML/CSS, React, Markdown, GitHub Pages
+
+---
+
+## 🧪 Mes Labs en cours
+
+🧠 [CyberLab – Documentation & Labs](https://github.com/Spagheth/CyberLab)  
+📦 [Tetris Godot CTF - Hackfinity 2025](https://github.com/Spagheth/CyberLab/tree/main/Tetris-Hackfinity2025)  
+🔧 [Wazuh + OPNsense](https://github.com/Spagheth/CyberLab/tree/main/OPNsense+Wazuh)  
+📊 [Zabbix + SIEM Dashboards](https://github.com/Spagheth/CyberLab/tree/main/Zabbix+Wazuh)
+
+---
+
+## 🏆 Certifications
+
+- 🏅 TryHackMe – Pre Security Path  
+- 🧠 Cisco – Network Technician Career Path  
+- 📜 Formation CESI : Technicien Systèmes & Réseaux (en cours)
+
+---
+
+## 📫 Me contacter
+
+- ✉️ [LinkedIn (ajouter lien)](https://linkedin.com/in/TON-LIEN)
+- 📧 Email pro dispo sur demande
