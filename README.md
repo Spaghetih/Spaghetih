@@ -9,7 +9,7 @@
 
 🎓 En formation Technicien Systèmes & Réseaux (CESI Strasbourg)  
 🔍 Passionné par la cybersécurité, les labs, l’automatisation et les systèmes.  
-👨‍💻 Je construis une documentation complète de tout ce que j’apprends dans mon repo [CyberLab](https://github.com/Spagheth/CyberLab).
+👨‍💻 Je construis une documentation complète de tout ce que j’apprends dans mon repo [CyberLab](https://github.com/Spaghetih/spaghetih.github.io).
 
 ---
 
@@ -26,8 +26,8 @@
 
 ## 🧪 Mes Labs en cours
 
-🧠 [CyberLab – Documentation & Labs](https://github.com/Spagheth/CyberLab)  
-📦 [Tetris Godot CTF - Hackfinity 2025](https://github.com/Spagheth/CyberLab/tree/main/Tetris-Hackfinity2025)  
+🧠 [CyberLab – Documentation & Labs](https://github.com/Spaghetih/spaghetih.github.io)  
+📦 [Tetris Godot CTF - Hackfinity 2025](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Tetris-Hackfinity2025/README.md)  
 🔧 [Wazuh + OPNsense](https://github.com/Spagheth/CyberLab/tree/main/OPNsense+Wazuh)  
 📊 [Zabbix + SIEM Dashboards](https://github.com/Spagheth/CyberLab/tree/main/Zabbix+Wazuh)
 
