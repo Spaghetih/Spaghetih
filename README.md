@@ -7,7 +7,7 @@
 
 ## 🚀 À propos de moi
 
-🎓 En formation Technicien Systèmes & Réseaux (CESI Strasbourg)  
+🎓 En formation Technicien Systèmes & Réseaux 
 🔍 Passionné par la cybersécurité, les labs, l’automatisation et les systèmes.  
 👨‍💻 Je construis une documentation complète de tout ce que j’apprends dans mon repo [CyberLab](https://github.com/Spaghetih/spaghetih.github.io).
 
