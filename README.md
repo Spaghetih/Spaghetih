@@ -28,20 +28,19 @@
 
 🧠 [CyberLab – Documentation & Labs](https://github.com/Spaghetih/spaghetih.github.io)  
 📦 [Tetris Godot CTF - Hackfinity 2025](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Tetris-Hackfinity2025/README.md)  
-🔧 [Wazuh + OPNsense](https://github.com/Spagheth/CyberLab/tree/main/OPNsense+Wazuh)  
-📊 [Zabbix + SIEM Dashboards](https://github.com/Spagheth/CyberLab/tree/main/Zabbix+Wazuh)
+🔧 [Wazuh + OPNsense](https://github.com/Spaghetih/spaghetih.github.io/blob/main/OPNsense%2BWazuh/Lab_OPNsense_Wazuh.md)  
+📊 [Zabbix + SIEM Dashboards](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Zabbix%2BWazuh/Wazuh_Zabbix_Integration.md)
 
 ---
 
 ## 🏆 Certifications
 
-- 🏅 TryHackMe – Pre Security Path  
-- 🧠 Cisco – Network Technician Career Path  
-- 📜 Formation CESI : Technicien Systèmes & Réseaux (en cours)
+- 🏅 TryHackMe – Pre Security Path
+- 🏅 TryHackMe – CyberSecurity 101
 
 ---
 
 ## 📫 Me contacter
 
-- ✉️ [LinkedIn (ajouter lien)](https://linkedin.com/in/TON-LIEN)
+- ✉️ [LinkedIn](https://www.linkedin.com/in/suleyman-unver/)
 - 📧 Email pro dispo sur demande
