@@ -1,57 +1,93 @@
-<h1 align="center">Salut 👋, moi c'est Suleyman aka LuxurySley</h1>
+<h1 align="center">🌟 Bienvenue sur mon GitHub — Suleyman aka LuxurySley 🚀</h1>
 <p align="center">
-  🔧 Technicien Réseaux & Cybersécurité | 🛡️ Lab Addict | 👨‍💻 TryHackMe Enthusiast
+  🔧 Technicien Réseaux & Cybersécurité | 🛡️ Passion Labs | 💻 TryHackMe Addict
 </p>
 
 <p align="center">
   <a href="https://tryhackme.com/p/LuxurySley" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/LuxurySley.png" alt="TryHackMe Badge" />
   </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Spaghetih&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 À propos de moi
+## 📑 Sommaire
 
-🎓 En formation Technicien Systèmes & Réseaux  
-🔍 Passionné par la cybersécurité, les labs, l’automatisation et les systèmes.  
-👨‍💻 Je construis une documentation complète de tout ce que j’apprends dans mon repo [CyberLab](https://github.com/Spaghetih/spaghetih.github.io).
-
----
-
-## 🧰 Compétences
-
-- 🖥️ **Systèmes** : Windows Server, Active Directory, Debian, pfSense, OPNsense  
-- 🌐 **Réseaux** : TCP/IP, DNS, VPN, VLAN, Wireshark  
-- ⚙️ **Outils** : Wazuh, Zabbix, Suricata, Ansible, SQLMap, Frida  
-- 🔐 **Cybersec** : SIEM, SOC Labs, TryHackMe, Vuln Scanners  
-- 🔄 **Automation** : PowerShell, Bash, Ansible  
-- 🌐 **Dev Web** : HTML/CSS, React, Markdown, GitHub Pages
+* [🚀 Qui suis-je ?](#-qui-suis-je-)
+* [🛠️ Compétences](#️-compétences)
+* [📂 Mes projets & labs](#-mes-projets--labs)
+* [🏋️ Certifications & Formations](#-certifications--formations)
+* [📢 Me contacter](#-me-contacter)
 
 ---
 
-## 🧪 Labs & Write-Ups
+## 🚀 Qui suis-je ?
 
-📘 [CyberLab – Documentation & Labs](https://github.com/Spaghetih/spaghetih.github.io)  
-🛠️ [Wazuh + OPNsense](https://github.com/Spaghetih/spaghetih.github.io/blob/main/OPNsense%2BWazuh/Lab_OPNsense_Wazuh.md)  
-📊 [Zabbix + SIEM Dashboards](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Zabbix%2BWazuh/Wazuh_Zabbix_Integration.md)
-
----
-
-## 🕹️ CTF & Challenges
-
-👾 [Tetris CTF Write-up – Hackfinity 2025](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Tetris-Hackfinity2025/README.md)
+* 🎓 Actuellement en formation Technicien Systèmes & Réseaux
+* 🔍 Curieux, autodidacte et passionné par les LABS techniques
+* 🔎 Objectif : devenir Security Engineer / Analyste SOC
+* 📂 Ce repo est ma plateforme personnelle : [CyberLab](https://github.com/Spaghetih/spaghetih.github.io)
 
 ---
 
-## 🏆 Certifications
+## 🛠️ Compétences
 
-- 🏅 TryHackMe – Pre Security Path  
-- 🏅 TryHackMe – CyberSecurity 101  
+### 💻 Systèmes & Infrastructures
+
+* Windows Server, Active Directory, Windows 10
+* Debian, AlmaLinux, pfSense, OPNsense
+
+### 🌐 Réseaux
+
+* TCP/IP, DNS, DHCP, VLAN, VPN, Wireshark
+* Routing statique/dynamique, Firewall DMZ, NAT
+
+### 💡 Cybersécurité
+
+* SIEM avec Wazuh, Zabbix, Suricata, Filebeat
+* SOC Labs, Vulnérabilités Web (XSS, SQLi, etc.)
+* Scanners : SQLMap, Nmap, Nikto
+
+### ⚙️ Automatisation & DevOps
+
+* Ansible, PowerShell, Bash, YAML
+* Web : HTML/CSS, React.js, GitHub Pages
 
 ---
 
-## 📫 Me contacter
+## 📂 Mes projets & labs
 
-- ✉️ [LinkedIn](https://www.linkedin.com/in/suleyman-unver/)
-- 📧 Email pro dispo sur demande
+> Une documentation vivante classée par thèmes : systèmes, réseaux, sécurité, automatisation, CTFs, etc.
+
+* [CyberLab – Accueil principal](https://github.com/Spaghetih/spaghetih.github.io)
+* [Wazuh + OPNsense Lab](https://github.com/Spaghetih/spaghetih.github.io/blob/main/OPNsense%2BWazuh/Lab_OPNsense_Wazuh.md)
+* [Zabbix + SIEM Visualisation](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Zabbix%2BWazuh/Wazuh_Zabbix_Integration.md)
+* [Cheat Sheet Python](https://github.com/Spaghetih/spaghetih.github.io/blob/main/docs/cheatsheet-python-fr.md)
+* [Tetris Hackfinity 2025 Write-up](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Tetris-Hackfinity2025/README.md)
+
+---
+
+## 🏋️ Certifications & Formations
+
+* 🏅 TryHackMe Pre-Security Path
+* 🏅 TryHackMe CyberSecurity 101
+* 📄 Cisco Network Technician Career Path
+
+---
+
+## 📢 Me contacter
+
+* 👤 [LinkedIn](https://www.linkedin.com/in/suleyman-unver/)
+* 📧 Email pro dispo sur demande
+
+---
+
+<h4 align="center">
+🧠 "Un bon hacker ne force pas, il comprend."
+</h4>
+
+<h4 align="center">
+✨ Merci d'avoir visité mon CyberLab. Bon lab et bonne veille ✨
+</h4>
