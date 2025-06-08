@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Bienvenue sur mon GitHub — Suleyman aka LuxurySley 🚀</h1>
+<h1 align="center">🌟 Bienvenue sur CyberLab — par Suleyman aka LuxurySley 🚀</h1>
 <p align="center">
   🔧 Technicien Réseaux & Cybersécurité | 🛡️ Passion Labs | 💻 TryHackMe Addict
 </p>
@@ -64,7 +64,7 @@
 * [CyberLab – Accueil principal](https://github.com/Spaghetih/spaghetih.github.io)
 * [Wazuh + OPNsense Lab](https://github.com/Spaghetih/spaghetih.github.io/blob/main/OPNsense%2BWazuh/Lab_OPNsense_Wazuh.md)
 * [Zabbix + SIEM Visualisation](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Zabbix%2BWazuh/Wazuh_Zabbix_Integration.md)
-* [Cheat Sheet Python](https://github.com/Spaghetih/spaghetih.github.io/blob/main/docs/cheatsheet-python-fr.md)
+* [Suricata + Filebeat + Wazuh – Intrusion Detection](https://github.com/Spaghetih/spaghetih.github.io/blob/main/wazuh-suricata-filebeat-lab/README_suricata_wazuh.md)
 * [Tetris Hackfinity 2025 Write-up](https://github.com/Spaghetih/spaghetih.github.io/blob/main/Tetris-Hackfinity2025/README.md)
 
 ---
@@ -83,10 +83,6 @@
 * 📧 Email pro dispo sur demande
 
 ---
-
-<h4 align="center">
-🧠 "Un bon hacker ne force pas, il comprend."
-</h4>
 
 <h4 align="center">
 ✨ Merci d'avoir visité mon CyberLab. Bon lab et bonne veille ✨
