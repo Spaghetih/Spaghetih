@@ -11,6 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=Spaghetih&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spaghetih&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spaghetih&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Spaghetih&theme=matrix&row=1&margin-w=10&no-bg=true" alt="Trophées GitHub" />
+</p>
+
 ---
 
 ## 📑 Sommaire
@@ -80,7 +92,6 @@
 ## 📢 Me contacter
 
 * 👤 [LinkedIn](https://www.linkedin.com/in/suleyman-unver/)
-* 📧 Email pro dispo sur demande
 
 ---
 
