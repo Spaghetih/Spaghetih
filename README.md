@@ -1,6 +1,6 @@
-<h1 align="center">🌟 Bienvenue sur CyberLab — par Suleyman aka LuxurySley 🚀</h1>
+<h1 align="center">🌟 Bienvenue 🌟</h1>
 <p align="center">
-  🔧 Technicien Réseaux & Cybersécurité | 🛡️ Passion Labs | 💻 TryHackMe Addict
+  🔧 Réseaux & Cybersécurité
 </p>
 
 <p align="center">
@@ -23,8 +23,6 @@
 * [🚀 Qui suis-je ?](#-qui-suis-je-)
 * [🛠️ Compétences](#️-compétences)
 * [📂 Mes projets & labs](#-mes-projets--labs)
-* [🏋️ Certifications & Formations](#-certifications--formations)
-* [📢 Me contacter](#-me-contacter)
 
 ---
 
@@ -74,19 +72,6 @@
 
 ---
 
-## 🏋️ Certifications & Formations
-
-* 🏅 TryHackMe Pre-Security Path
-* 🏅 TryHackMe CyberSecurity 101
-* 📄 Cisco Network Technician Career Path
-
----
-
-## 📢 Me contacter
-
-* 👤 [LinkedIn](https://www.linkedin.com/in/suleyman-unver/)
-
----
 
 <h4 align="center">
 ✨ Merci d'avoir visité mon CyberLab. Bon lab et bonne veille ✨
