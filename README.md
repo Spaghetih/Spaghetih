@@ -28,7 +28,6 @@
 
 ## 🚀 Qui suis-je ?
 
-* 🎓 Actuellement en formation Technicien Systèmes & Réseaux
 * 🔍 Curieux, autodidacte et passionné par les LABS techniques
 * 🔎 Objectif : devenir Security Engineer / Analyste SOC
 * 📂 Ce repo est ma plateforme personnelle : [CyberLab](https://github.com/Spaghetih/spaghetih.github.io)
