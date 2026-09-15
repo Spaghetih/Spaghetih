@@ -6,8 +6,15 @@
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/LuxurySley.png)](https://tryhackme.com/p/LuxurySley)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Spaghetih&label=Profile%20views&color=0e75b6&style=flat)
-
+<div align="center">
+</div>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=spaghetih&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=spaghetih&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
 </div>
 
 ---
@@ -48,6 +55,5 @@ Passionate and self-taught security enthusiast focused on building hands-on labs
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spaghetih&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
