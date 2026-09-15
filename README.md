@@ -1,6 +1,6 @@
 <div align="center">
 
-# Suleyman — Security
+# Sley
 
 **Networks & Cybersecurity | SOC | SIEM | Infrastructure**
 
